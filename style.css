@@ -1,0 +1,151 @@
+
+body {
+    font-family: Inter;
+    background-color: #ffffff ;
+}
+
+header{
+
+    background-color: #C1C7D9;
+    font-family: Inter;
+    padding: 50px;
+    height: 70px;
+    
+}
+
+nav a:hover{
+
+    background-color: white;
+    color: black;
+    box-shadow:rgba(0, 0, 0, 0.4) 10px 10px;
+}
+
+
+footer{
+
+    
+    background-color: #C1C7D9;
+    font-family: Inter;
+    padding: 10px;
+   
+}
+
+.vid{
+
+    text-align: center;
+    background-color: #C1C7D9 ;
+    border-radius: 3px;
+}
+
+
+nav{
+float: right;
+font-size: 20px;
+padding-bottom: 50px;
+padding: 20px;
+  position: absolute;
+  top:10px;
+  left:500px;
+}
+
+a{
+
+    text-decoration: none;
+    background-color: #9f9b9b;
+    padding: 6px;
+    border-radius: 5px;
+    color: #f2f1f4;
+    
+   
+
+}
+
+.poshuk{
+
+   
+    background-color: #9a9595;
+    width: 350px;
+    height: 10x;
+    text-align: center;
+    float: right;
+}
+
+.title{
+    float:left;
+    position:absolute;
+ top:10px;
+}
+
+.fot{
+
+    background-color: #dbdbdd;
+    padding: 15px;
+    border-radius: 9px;
+     width: 500px;
+}
+
+p,h1,h2{
+
+    color: #636363;
+   
+}
+
+.poshuk p{
+
+ opacity:1;
+}
+
+header h1{
+
+background-color: #d5d4d6;
+padding: 5px;
+font-size: 50px;
+
+}
+
+#text{
+    width:380px;
+    height: 50px;
+    background-color: #D9D9D9 ;
+    position: absolute;
+    left: 500px;
+    top: 85px;
+    text-align: center;
+    color: #594936;
+    opacity: 50%;
+
+}
+
+.vidguky{
+
+    text-align: center;
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 5px;
+    width: 350px;
+    margin-left: 290px;
+    border: 1px solid black;
+}
+#i{
+    font-size: 20px;
+}
+
+#o{
+
+    font-size: 20px;
+}
+
+#p{
+
+    font-size: 20px;
+}
+
+#g{
+
+    font-size: 20px;
+}
+
+#h{
+
+    font-size: 15px;
+}
